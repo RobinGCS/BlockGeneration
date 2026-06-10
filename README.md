@@ -27,28 +27,6 @@ Customize your config.yml and messages.yml to your liking.
 
 Use /bg wand to start defining your regeneration regions!
 
-📋 Configuration & Advanced Features
-The config.yml file allows you to fully customize how your generators behave. Below are the key configuration options:
-
-1. Custom Block Transformation
-You can define which blocks are transformed when a generator regenerates. By default, the plugin uses COBBLESTONE, but you can change this to any material you prefer.
-
-2. Weighted Drop Percentages
-You can add a probability percentage to each block type. This allows you to create custom mining experiences (e.g., higher chances for common blocks, lower for rare ores).
-
-Example config.yml snippet:
-
-generators:
-  1:
-    blocks:
-      - COAL_ORE [90]  # 90% chance to spawn
-      - IRON_ORE [20]  # 20% chance to spawn
-      - LAPIS_ORE [60] # 60% chance to spawn
-    respawn-time: 5    # Time in seconds for the block to regenerate
-
-3. Chest Regeneration
-The plugin supports automatic chest contents regeneration. Once a chest is placed within a generator region, it will automatically refill its contents based on your defined loot tables after the specified respawn interval.
-
 📖 How it works
 Define: Use the /bg wand to select the corners of your regeneration zone.
 
