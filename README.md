@@ -64,4 +64,4 @@ API: Adventure API (Included)
 🤝 Support & Contributions
 Found a bug or have a feature request? Please feel free to open an Issue here on GitHub or submit a Pull Request.
 
-Built with ❤️ for the Minecraft community.
+Built by RobinGCS with ❤️ for the Minecraft community.
