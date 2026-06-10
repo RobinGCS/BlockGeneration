@@ -43,3 +43,10 @@ API: Adventure API (Included)
 Found a bug or have a feature request? Please feel free to open an Issue here on GitHub or submit a Pull Request.
 
 Built by RobinGCS with ❤️ for the Minecraft community.
+
+
+
+https://imgur.com/a/8YEpUTf
+https://imgur.com/a/nXaq3YK
+
+
